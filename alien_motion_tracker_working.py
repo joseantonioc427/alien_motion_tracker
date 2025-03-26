@@ -3,12 +3,12 @@
 # HC-SR04 Ultra Sonic sensors x 3 used
 # Will run on any 40pin Raspberry Pi
 #
-# Prototype created by SHEDTECH on behalf of
+# Prototype created by JACR2-D2 on behalf of
 # WEYLAND-YUTANI corp. - Building Better Worlds
 #
-# Author:			Billy O Sullivan
-# Created date:		20 June 2022
-# Edited:			06 July 2022
+# Author:		jacr2-d2
+# Created date:		26/3/2025
+# Edited:	        26/03/2025
 #
 #
 # Switch 1, SW1, controls the mode. At present there are 2 modes:
